@@ -1,0 +1,10 @@
+﻿  battle.cpp
+C:\Users\Voiceless\Desktop\Новая папка (14)\battle\battle\battle.cpp(98,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Voiceless\Desktop\Новая папка (14)\battle\battle\battle.cpp(98,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Voiceless\Desktop\Новая папка (14)\battle\battle\battle.cpp(99,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Voiceless\Desktop\Новая папка (14)\battle\battle\battle.cpp(99,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Voiceless\Desktop\Новая папка (14)\battle\battle\battle.cpp(118,29): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Voiceless\Desktop\Новая папка (14)\battle\battle\battle.cpp(183,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  battle.vcxproj -> C:\Users\Voiceless\Desktop\Новая папка (14)\battle\x64\Debug\battle.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
